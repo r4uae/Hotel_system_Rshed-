@@ -24,7 +24,7 @@ Focused on the find_available_rooms method to search for available rooms within 
 
 Worked on the make_booking method to create booking instances and assign them to guests.    
 
-Week 3:
+day 3:
 
 Continued developing the Hotel class.    
 
